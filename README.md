@@ -8,7 +8,7 @@
 
 ## Overview
 
-ALYCON (Anomalous Lyapunov-Constraint Detection) phase space visualization showing multi-domain threat detection and anomaly classification.
+ALYCON phase space visualization showing multi-domain threat detection and anomaly classification.
 
 **Framework:** Training-free, universal anomaly detection using Shannon Entropy (H), Fisher Information (F), and Wasserstein Distance (W) to map system states into geometrically distinct regions.
 
@@ -27,7 +27,7 @@ The threat landscape map shows:
 ## Contact
 
 **Michael Castens**  
-mcastens2190@gmail.com
+[Contact via GitHub issues](https://github.com/MCastens/ALYCON-Threat-Landscape/issues)
 
 **Main Repository:** [ALYCON Framework](https://github.com/MCastens/ALYCON)
 
